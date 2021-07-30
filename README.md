@@ -12,7 +12,7 @@
 
 * There are two different csv files, train and test.
 
-* House prices are NaN in the test dataset, and we are expected to estimate these values.
+* House prices are NaN in the test dataset and we are expected to estimate these values.
 
 ## Variables
 
